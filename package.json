@@ -1,0 +1,22 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "Backend for ecommerce api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipsonmoulinga/EcommerceBackEnd.git"
+  },
+  "keywords": [
+    "MERN , ESHOP"
+  ],
+  "author": "SALL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipsonmoulinga/EcommerceBackEnd/issues"
+  },
+  "homepage": "https://github.com/ipsonmoulinga/EcommerceBackEnd#readme"
+}
